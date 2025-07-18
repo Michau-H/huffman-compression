@@ -1,0 +1,3 @@
+/Users/michau/Documents/cps/huffman-compression/build/CMakeFiles/huffman.dir
+/Users/michau/Documents/cps/huffman-compression/build/CMakeFiles/edit_cache.dir
+/Users/michau/Documents/cps/huffman-compression/build/CMakeFiles/rebuild_cache.dir
